@@ -1,2 +1,0 @@
-# ConvertClassReduxToHookRedux
-Created with CodeSandbox
